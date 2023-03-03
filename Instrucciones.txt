@@ -1,0 +1,13 @@
+El sistema puede crear la base de datos directamente, 
+pero para crearlo tiene que agregar unas instrucciones. 
+
+es por eso que mejor le agrego el Script para evitar posibles errores.
+
+No debe existir ningun problema, realice lo maximo que puede 
+
+*Solo debe descomprimirel rar 
+*Sntrar a la carpeta "COMAExamenCarlos"
+*Seleccionar el archivo COMAExamenCarlos.sln 
+*Ejecutar el programa  
+
+ESTA REALIZADO EN VISUAL STUDIO 2022
